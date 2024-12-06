@@ -61,4 +61,3 @@ const players = [
   
     table.appendChild(newFootball);
   }
-  
